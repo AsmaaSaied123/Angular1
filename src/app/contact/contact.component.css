@@ -1,4 +1,4 @@
-.title
+/* .title
 {
     color: #2c3e50;
 }
@@ -34,9 +34,8 @@
 
 
 }
-.contact{
-  padding: 30px;
-}
+
+
 .contact-hero h3{
   font-size: 40px;
   color: rgb(30, 43, 57);
@@ -47,3 +46,64 @@
   text-transform: uppercase!important;
   font-weight: 650!important;
 }
+ */
+
+
+ .iconss{
+  border: 2px solid   rgb(30, 43, 57); ;
+  width: 85px;
+
+
+}
+.contact-hero h3{
+  font-size: 40px;
+  color: rgb(30, 43, 57);
+
+}
+label {
+  color:#1abc9c;
+  margin-bottom: 7px;
+  transition:top 0.3s;
+}
+
+.form-control:focus {
+
+  box-shadow: none;
+}
+
+
+
+.input-container {
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.visible {
+  opacity: 1;
+  display: block;
+}
+
+.hidden {
+  opacity: 0;
+  display: none;
+}
+
+.contact{
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

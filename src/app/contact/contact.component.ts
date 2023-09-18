@@ -6,7 +6,57 @@ import { Component } from '@angular/core';
   styleUrls: ['./contact.component.css']
 })
 export class ContactComponent {
-  isHovered = false;
+//   isHovered = false;
+//   Hovered = false
+//   hoverr = false
+//   email=false
+//   username = '';
+//   userPassword = "";
+//   userAge = "";
+//   userEmail = ""
+
+
+
+//   onHover(): void {
+//     this.isHovered = true;
+//   }
+//   Hover(): void {
+//     this.Hovered = true;
+//   }
+//   emaill():void{
+//     this.email = true;
+//   }
+
+//   onBlur(): void {
+//     if (this.username === ' ' ) {
+//       this.isHovered = false;
+//     }
+//   }
+//   onfacis():void{
+
+// if(this.userPassword==="" ){
+
+//  this.Hovered = false;
+// }
+// }
+
+// onage():void{
+//   if (this.userAge==="") {
+
+//     this.hoverr = false;
+//   }
+
+// }
+// useremail():void{
+//   if ( this.userEmail==="") {
+
+//     this.email = false;
+//   }
+
+// }
+
+
+isHovered = false;
   Hovered = false
   hoverr = false
   email=false
@@ -55,4 +105,11 @@ useremail():void{
 
 }
 
+// flag:boolean=false;
+//  clickOnInput(){
+
+// let flag:boolean=true;
+
+
+//  }
 }
