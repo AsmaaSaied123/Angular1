@@ -26,5 +26,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 "# Angular1" 
+<<<<<<< HEAD
 "# framework-Angular-assignment1" 
 "# framework-Angular-assignment1" 
+=======
+"# Angular-assignment1" 
+>>>>>>> d2623dec4b215cb5ba0bd38c757d11a27d54bcf1

@@ -5,6 +5,7 @@
 .por{
 
   align-items: center;
+<<<<<<< HEAD
 }
 .title{
 padding-top: 60px;
@@ -23,6 +24,15 @@ margin: 40px;
 }
 
 
+=======
+
+
+}
+
+.ico{
+   color: #2c3e50;
+}
+>>>>>>> d2623dec4b215cb5ba0bd38c757d11a27d54bcf1
 .overlay {
     position: absolute;
     top: 0;
@@ -43,9 +53,12 @@ margin: 40px;
 
 
 }
+<<<<<<< HEAD
 .star{
   color: #2c3e50;
 }
+=======
+>>>>>>> d2623dec4b215cb5ba0bd38c757d11a27d54bcf1
 
 
 .line-wrapper::before,
